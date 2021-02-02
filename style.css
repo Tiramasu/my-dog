@@ -1,0 +1,25 @@
+h1{
+  text-align:center;
+}
+img{
+  width:300px;
+}
+div{
+  text-align:center
+}
+body{
+  margin:0px;
+  padding-top:800px;
+}
+#sec1{
+  position:absolute;
+  height:800px;
+  left:0;
+  right:0;
+  top:0;
+  bottom:0;
+  background:linear-gradient(teal 0%,lime  100%);
+}
+ul{
+  font-size:21px;
+}
